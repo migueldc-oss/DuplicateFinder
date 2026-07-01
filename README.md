@@ -177,6 +177,7 @@ Pulsa `⌘,` (Comando + ,) para abrir las preferencias, organizadas en cuatro pe
 | **Número de resultados (Top N)** | Número máximo de filas en la tabla de resultados (10–100.000). |
 | **Mover a la Papelera** | Si está activo, los archivos se envían a la Papelera en lugar de borrarse permanentemente. |
 | **Selección inteligente** | Estrategia para marcar automáticamente qué copia conservar (la más antigua, la más reciente, o la de ruta más corta). |
+| **Apariencia** | Modo de visualización. |
 
 ### Detección
 
