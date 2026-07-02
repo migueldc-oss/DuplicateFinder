@@ -39,7 +39,7 @@
 
 ## 2. System Requirements
 
-- **macOS** 14.0 (Sonora) or later.
+- **macOS** 14.0 (Sonoma) or later.
 - **Apple Silicon** or **Intel**.
 - No external packages or dependencies required.
 
